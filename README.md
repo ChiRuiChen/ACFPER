@@ -4,7 +4,10 @@ Official repository of the Accelerating CNNs on FPGAs for Particle Energy Recons
 ## Intro
 The work presented in this paper is based on the release version 0.5.1 of hls4ml.
 
-## Links
+## Resources
+### Electromagnetic data
+The dataset is owned by CERN, and we are currently in negotiations regarding its availability to the public.
+
 ### DeepCalo
 - [Deepcalo library Official](https://gitlab.com/ffaye/deepcalo)
 - [Deepcalo library integrated with qkeras](https://gitlab.com/kugelblitz.ee05/deepcalo-with-hls-4-ml)
